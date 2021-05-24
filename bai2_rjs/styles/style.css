@@ -1,0 +1,33 @@
+@media (min-width: 1200px){
+    .container{
+        max-width: 1140px !important;
+    }
+}
+
+ul{
+    list-style: none;
+}
+a {
+    text-decoration: none !important;
+}
+.nav-heading{
+    margin-left: 8px;
+}
+.jumbotron{
+    padding: 96px 32px !important;
+}
+.jumbotron .container{
+    max-width: 40rem !important;
+}
+.jumbotron-heading{
+    font-weight: 300;
+}
+footer{
+    padding: 48px 0;
+}
+.float-right{
+    float: right !important;
+}
+footer p{
+    margin-bottom: .25rem !important;
+}

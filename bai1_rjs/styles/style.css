@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1140px !important;
+}
+}
+
+.jumbotron {
+    padding: 64px 32px;
+    margin:56px 0 32px !important;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+.container {
+    width: 100%;
+    padding: 0 15px !important;
+    margin-right: auto !important;
+    margin-left: auto !important; 
+}
+.display-3{
+    font-size: 72px !important;
+}
+.main-text{
+    /* text-align: left; */
+}
+footer{
+    margin-top: 18px;
+}
+.footer-text{
+    border-top:1px solid #999 ;
+    padding-top: 18px;
+}
